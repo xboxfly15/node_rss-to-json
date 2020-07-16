@@ -1,0 +1,17 @@
+{
+  "refreshRateInMinutes": 10,
+  "limitItemsPerRSSFeed": 25,
+  "rssFeeds": {
+    "World news": [
+      "https://news.google.com/rss?ceid=GB:en&hl=en-GB&gl=GB",
+      "https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pIUWlnQVAB?hl=en-GB&gl=GB&ceid=GB:en"
+    ],
+    "Technology": [
+      "https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pIUWlnQVAB?hl=en-GB&gl=GB&ceid=GB:en",
+      "https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pIUWlnQVAB/sections/CAQiSkNCQVNNUW9JTDIwdk1EZGpNWFlTQldWdUxVZENHZ0pIUWlJT0NBUWFDZ29JTDIwdk1ERnNjSE1xQ2hJSUwyMHZNREZzY0hNb0FBKi4IACoqCAoiJENCQVNGUW9JTDIwdk1EZGpNWFlTQldWdUxVZENHZ0pIUWlnQVABUAE?hl=en-GB&gl=GB&ceid=GB:en"
+    ],
+    "Local news": [
+      "https://news.google.com/rss/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNR1I1YW5vU0FtVnVLQUFQAQ?hl=en-GB&gl=GB&ceid=GB:en"
+    ]
+  }
+}
