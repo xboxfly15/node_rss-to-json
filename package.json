@@ -13,6 +13,6 @@
   "dependencies": {
     "cron": "^1.8.2",
     "express": "^4.17.1",
-    "rss-parser": "^3.8.0"
+    "rss-parser": "^3.12.0"
   }
 }
