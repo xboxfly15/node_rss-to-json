@@ -7,8 +7,16 @@
     "start": "node app.js",
     "start-dev": "nodemon app.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xboxfly15/node_rss-to-json.git"
+  },
   "author": "xboxfly15",
   "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/xboxfly15/node_rss-to-json/issues"
+  },
+  "homepage": "https://github.com/xboxfly15/node_rss-to-json#readme",
   "dependencies": {
     "express": "^4.18.1",
     "node-cron": "^3.0.0",
