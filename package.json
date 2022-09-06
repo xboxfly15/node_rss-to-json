@@ -19,7 +19,7 @@
   "homepage": "https://github.com/xboxfly15/node_rss-to-json#readme",
   "dependencies": {
     "express": "^4.18.1",
-    "node-cron": "^3.0.0",
+    "node-cron": "^3.0.2",
     "rss-parser": "^3.12.0"
   },
   "devDependencies": {
